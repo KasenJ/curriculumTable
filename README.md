@@ -1,0 +1,4 @@
+curriculumTable
+===============
+
+SYSUTimeTable
